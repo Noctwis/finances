@@ -1,0 +1,4 @@
+-Enleve la colonne ID
+-Enleve la colonne target (qui devient plus tard le y)
+-Enleve toute les colonnes ou il manque 80% des données
+-Enlever les colonnes pas pertinente
